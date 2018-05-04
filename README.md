@@ -10,6 +10,10 @@ If you have questions or need help updating a proposal, please add an issue to t
 
 Anyone can submit a BEP or propose edits to a BEP in DRAFT mode even if you are not the creator of the BEP.  The creator of the BEP will decide what edits to include.
 
+## Tutorial
+
+[Submitting a BEP Proposal Tutorial](https://github.com/belbio/bep/blob/master/BEP-Proposal-Tutorial.pdf)
+
 ## BEP Types
 
 There are three kinds of BEP:
