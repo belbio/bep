@@ -7,7 +7,7 @@ Provide overview of intent of BEP here. A short (~200 word) description of the i
 
 ## Preamble
 
-BEP-Id: BEP0000
+BEP-Id: BEP-0000
 
 Status: Draft | Active | Accepted | Deferred | Rejected | Withdrawn | Final | Superseded
 
@@ -27,11 +27,15 @@ Superseded-By: BEP number (optional)
 
 ## Rationale and Goals
 
-The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work.
+The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The proposal needs to indicate why current BEL Language features are not sufficient.
 
 ## Use Cases
 
 Share how the new language feature will be used. For example, adding a populationAbundance() function would allow capturing population level changes due to environment or treatment. Consumers would be the EPA, Toxicologists, Microbiome biologists, etc.
+
+## Discussion
+
+Add any questions or discussion points for the community in your proposal. This is a place to add particular questions or discussion points. Discussions and comments can be carried out in either the pull requests or in the OpenBEL Google Discussion Group.
 
 ## Specification
 
