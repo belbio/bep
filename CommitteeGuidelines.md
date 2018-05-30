@@ -1,4 +1,4 @@
-# BEL Language Committee Guidelines
+# DRAFT - BEL Language Committee Guidelines
 
 ## Glossary
 
