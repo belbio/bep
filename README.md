@@ -14,6 +14,8 @@ Anyone can submit a BEP or propose edits to a BEP in DRAFT mode even if you are 
 
 [Submitting a BEP Proposal Tutorial](https://github.com/belbio/bep/blob/master/BEP-Proposal-Tutorial.pdf)
 
+If you are uncomfortable with creating a BEP using Github Pull Requests, you can send the BEP to me whayes at biodati dot com, and I will add it for you.
+
 ## BEP Types
 
 There are three kinds of BEP:
